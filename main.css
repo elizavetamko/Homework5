@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+}
+
+#test {
+    color: blueviolet;
+}
+
+.orange-text {
+    color: orange;
+}
+
+.orange-text.small {
+    color: green;
+}
+
+div p {
+    color: fuchsia;
+}
+
+span>p {
+    color: crimson;
+}
+
+p ~ p {
+    color: lightsalmon;
+}
+
+div+div {
+    color: darkcyan;
+    }
+    
